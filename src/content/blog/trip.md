@@ -6,6 +6,7 @@ image: https://yirween.netlify.app/public/image/warmaballoon.jpg
 categories:
   - tech
 tags:
+  - trip
 ---
 
 import Collapse from "../../components/mdx/Collapse.astro";
